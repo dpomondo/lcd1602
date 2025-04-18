@@ -1,0 +1,9 @@
+build/
+build/*
+.cache/
+# CMakeLists.txt
+.git/
+# .gitignore
+# lcd1602_i2c.c
+# lcd1602_i2c.h
+pico_sdk_import.cmake
